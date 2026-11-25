@@ -1,0 +1,6 @@
+l = list((1, 2, 3, 4))
+t = tuple([5, 6, 7, 8])
+d = dict(name="TANUJA", branch="CSE")
+print(l)
+print(t)
+print(d)

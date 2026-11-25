@@ -1,0 +1,10 @@
+name = "TANUJA"
+roll = 760000101022
+branch = "CSE"
+uni = "VMSBUTU"
+city = "Dehradun"
+print("Name       :", name)
+print("Roll Number:", roll)
+print("Branch     :", branch)
+print("University :", uni)
+print("City       :", city)
